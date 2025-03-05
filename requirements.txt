@@ -1,0 +1,5 @@
+requests
+solana
+solders
+pynacl
+spl
