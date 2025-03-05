@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2025-02-27T04:11:59.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="7RgQ5atMsm-YBLtLutB1" version="24.3.1" type="device">
+  <diagram name="Page-1" id="6MKJovB8zKh_idUvlOnC">
+    <mxGraphModel dx="1434" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KAIv0FO6-vTT8vg96M_C-1" target="KAIv0FO6-vTT8vg96M_C-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="KAIv0FO6-vTT8vg96M_C-1" target="KAIv0FO6-vTT8vg96M_C-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-1" value="Fetch New Coins/Mints" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KAIv0FO6-vTT8vg96M_C-2" target="KAIv0FO6-vTT8vg96M_C-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-2" value="Filter to _ valid coins" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KAIv0FO6-vTT8vg96M_C-4" target="KAIv0FO6-vTT8vg96M_C-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-4" value="Purchase _ SOL of top _ valid coins" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KAIv0FO6-vTT8vg96M_C-6" target="KAIv0FO6-vTT8vg96M_C-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-6" value="Monitor Holdings" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="310" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KAIv0FO6-vTT8vg96M_C-8" target="KAIv0FO6-vTT8vg96M_C-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KAIv0FO6-vTT8vg96M_C-8" target="KAIv0FO6-vTT8vg96M_C-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-8" value="If Sell Condition" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-10" value="True:&lt;br&gt;Sell" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAIv0FO6-vTT8vg96M_C-12" target="KAIv0FO6-vTT8vg96M_C-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-12" value="False" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAIv0FO6-vTT8vg96M_C-16" value="Dex Screener, Jupyter, Raydium..." style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
